@@ -10,21 +10,21 @@ description: "Somos desenvolvedores apaixonados por codificar e trocar experiên
 # Team names, titles and social links
 people:
 - name: Daniel Rocha
-  pic: 1
+  pic: daniel
   position: Desenvolvedor
   social:
     - title: github
       url: https://github.com/rochadaniel
 
 - name: Jonathan Bijos
-  pic: 2
+  pic: jonathan
   position: Desenvolvedor
   social:
     - title: github
-      url: http://github.com/jekyll
+      url: http://github.com/quaggie
 
 - name: Arthur Marba
-  pic: 3
+  pic: arthur
   position: Criação
   # social:
   #   - title: github
